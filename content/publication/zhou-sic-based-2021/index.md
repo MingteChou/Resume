@@ -9,6 +9,10 @@ authors:
 - Mingde Zhou
 - Liang Yu
 - Haoyu Wang
+author_notes:
+- "First author"
+- ""
+- "Corresponding author"
 tags: ['PFC','Bidirectional','PEV Charging','V2G/G2V','AC/DC']
 categories: []
 date: '2021-01-01'
