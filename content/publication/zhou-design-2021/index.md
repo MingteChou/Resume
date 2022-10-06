@@ -9,6 +9,9 @@ authors:
 - Mingde Zhou
 - Haoyu Wang
 - Dongdong Shu
+author_notes:
+- "First author"
+- "Corresponding author"
 tags: ['Winding Capacitance','Magnetic Design','Transformer Design']
 categories: []
 date: '2021-01-01'
