@@ -8,6 +8,9 @@ summary: ''
 authors:
 - Mingde Zhou
 - Haoyu Wang
+author_notes:
+- "First author"
+- "Corresponding author"
 tags: ['Wide gain range','Synchronous Rectification','48V Bus', 'LLC','DC/DC']
 categories: []
 date: '2020-01-01'
