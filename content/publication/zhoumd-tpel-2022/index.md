@@ -8,7 +8,7 @@ authors:
 - Wang, Haoyu
 author_notes:
 - "First author"
-- "Co-author"
+- ""
 - "Corresponding author"
 date: 2022-10-05T20:27:00+08:00
 doi: "10.1109/TPEL.2021.3123179"
