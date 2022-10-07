@@ -4,8 +4,8 @@
 title: "An H5 Bridge Based Laddered CLLC DCX With Variable DC Link for PEV Charging Applications"
 authors: 
 - Mingde Zhou
-- Shu Dongdong 
-- Wang, Haoyu
+- Dongdong Shu 
+- Haoyu Wang
 author_notes:
 - "First author"
 - ""
