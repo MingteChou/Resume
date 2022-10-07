@@ -3,7 +3,7 @@
 
 title: "Bidirectional Laddered dc Transformer (DCX) for PEV Charging"
 summary: "Oct. 2020 - Oct. 2021 "
-tags: ['Wide gain range','Synchronous Rectification','DCX','Bidirectional','DC/DC','PEV Charging','V2G/G2V']
+tags: ['Wide Gain Range','Synchronous Rectification','DCX','Bidirectional','DC/DC','PEV Charging','V2G/G2V']
 categories: []
 date: '2021-11-21'
 
