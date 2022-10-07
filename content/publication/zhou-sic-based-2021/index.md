@@ -33,7 +33,7 @@ image:
 #   Simply enter your project's folder or file name without extension.
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
-projects: []
+projects: ['zhou-sic-based-2021']
 publishDate: '2022-10-05T12:01:09.405396Z'
 publication_types:
 - '1'
@@ -42,3 +42,5 @@ publication: '*2021 IEEE 1st International Power Electronics and Application Sym
   (PEAS)*'
 doi: 10.1109/PEAS53589.2021.9628795
 ---
+
+- '1'
