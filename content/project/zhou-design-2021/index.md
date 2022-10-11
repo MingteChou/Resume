@@ -3,7 +3,7 @@
 
 title: "Low Parasitic Capacitance Magnetic Components Design"
 summary: "Mar. 2021 - Jun. 2021 "
-tags: ['Magnetic Design','Winding Capacitance']
+tags: ['Magnetic Design','Winding Capacitance','Transformer Design']
 categories: []
 date: '2021-11-21'
 
