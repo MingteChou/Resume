@@ -9,7 +9,7 @@ authors:
 - Cheng Li
 - Mingde Zhou
 - Haoyu Wang
-tags: ['PEV Charging','Wide Gain Range','LLC']
+tags: ['PEV Charging','Wide Gain Range','LLC','H5 Bridge']
 categories: []
 date: '2020-01-01'
 lastmod: 2022-10-05T20:01:08+08:00
