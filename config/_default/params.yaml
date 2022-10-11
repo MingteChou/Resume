@@ -43,7 +43,7 @@ header:
 
 footer:
   copyright:
-    notice: '© {year} Mingde Zhou (周明德).'
+    notice: '© {year} Mingde Zhou (周明德). This work is licensed under {license}'
     license:
       enable: true
       allow_derivatives: false
