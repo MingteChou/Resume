@@ -31,7 +31,7 @@ abstract: "Plug-in electric vehicles’ charger is preferred to cover an ultrawi
 # Summary. An optional shortened abstract.
 summary: ""
 
-tags: ['Wide gain range','Synchronous Rectification','DCX','Bidirectional','DC/DC','PEV Charging','V2G/G2V']
+tags: ['Wide gain range','Synchronous Rectification','DCX','Bidirectional','DC/DC','PEV Charging','V2G/G2V','H5 Bridge']
 categories: []
 featured: true
 
