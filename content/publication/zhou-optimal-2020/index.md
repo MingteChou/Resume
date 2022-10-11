@@ -11,7 +11,7 @@ authors:
 author_notes:
 - "First author"
 - "Corresponding author"
-tags: ['Wide gain range','Synchronous Rectification','48V Bus', 'LLC','DC/DC']
+tags: ['Wide gain range','Synchronous Rectification','48V Bus', 'LLC','DC/DC','H5 Bridge']
 categories: []
 date: '2020-01-01'
 lastmod: 2022-10-05T20:01:11+08:00
