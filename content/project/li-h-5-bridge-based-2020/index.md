@@ -3,7 +3,7 @@
 
 title: "On-Board-Charger with Ultra-wide Voltage Gain Range"
 summary: "Jun. 2019 - Nov. 2019"
-tags: ['PEV Charging','Wide Gain Range','LLC']
+tags: ['PEV Charging','Wide Gain Range','LLC','H5 Bridge']
 categories: []
 date: '2019-11-03'
 # Optional external URL for project (replaces project detail page).
