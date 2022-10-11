@@ -3,7 +3,7 @@
 
 title: "LLC Step Down Converter with Ultra-wide Input Voltage Range"
 summary: "Feb. 2019 - Jun. 2019 "
-tags: ['Wide Gain Range','Synchronous Rectification','48V Bus', 'LLC','DC/DC']
+tags: ['Wide Gain Range','Synchronous Rectification','48V Bus', 'LLC','DC/DC','H5 Bridge']
 categories: []
 date: '2019-09-30'
 # Optional external URL for project (replaces project detail page).
