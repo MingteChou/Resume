@@ -30,8 +30,8 @@ experience:
     description: |2-
         * Student Member, IEEE, 2019.7 - present
         * Student Member, CPSS, 2020.1 - present
-        * IEEE Young Professionals, 2019.7 - present
-        * Member, IEEE Power Electronics Society, 2019.7 - present
+        * IEEE Young Professionals, 2019.7 - present   
+#     * Member, IEEE Power Electronics Society, 2019.7 - present
 
   - title: 'Peer-reviewing Activities'
     company: 'IEEE Transactions on Power Electronics (TPEL)'
