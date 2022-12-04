@@ -43,4 +43,3 @@ publication: '*2021 IEEE 1st International Power Electronics and Application Sym
 doi: 10.1109/PEAS53589.2021.9628795
 ---
 
-- '1'
