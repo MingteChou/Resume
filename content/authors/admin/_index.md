@@ -27,7 +27,7 @@ education:
   courses:
     - course: Ph.D. in Electrical Engineering
       institution: ShanghaiTech University/University of Chinese Academy of Sciences
-      year: 2021 - Now
+      year: 2021 - 2024
     - course: M.S. in Electrical Engineering
       institution: ShanghaiTech University
       year: 2019 -2021
@@ -42,7 +42,7 @@ education:
 social:
   - icon: envelope
     icon_pack: fas
-    link: 'mailto:zhoumd@shanghaitech.edu.cn'
+    link: 'mailto:zhoumd@alumni.shanghaitech.edu.cn'
   - icon: twitter
     icon_pack: fab
     link: https://twitter.com
@@ -67,6 +67,6 @@ email: ''
 highlight_name: true
 ---
 
-Mingde Zhou a Ph.D. candidate at [Power Electronics and Renewable Energies Laboratory (PEARL)](https://pearl.shanghaitech.edu.cn/), Shanghaitech University. His research advisor is Prof. [Haoyu Wang](https://pearl.shanghaitech.edu.cn/people.html). With the vision of building power internet with electric vehicles, his research focused on designing high-efficiency converters for electric vehicles (EVs) with compact size.
+Mingde Zhou received his Ph.D. degree at [Power Electronics and Renewable Energies Laboratory (PEARL)](https://pearl.shanghaitech.edu.cn/), Shanghaitech University. His research advisor is Prof. [Haoyu Wang](https://pearl.shanghaitech.edu.cn/people.html). With the vision of building power internet with electric vehicles, his research focused on designing high-efficiency converters for electric vehicles (EVs) with compact size.
 
 {{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/resume-eng.pdf" "newtab" >}}resumé{{< /staticref >}}.
