@@ -6,12 +6,12 @@ title: Mingde Zhou 周明德
 superuser: true
 
 # Role/position/tagline
-role: Ph.D. candidate of Power Electronics
+role: Ph.D. of Power Electronics
 
 # Organizations/Affiliations to show in About widget
 organizations:
-  - name: Shanghaitech University
-    url: https://www.shanghaitech.edu.cn/
+  - name: PEARL, Shanghaitech University
+    url: https://pearl.shanghaitech.edu.cn/
 
 # Short bio (displayed in user profile at end of posts)
 bio: My research interests include resonant converters, AC/DC converter, magnetic integration and advanced control.
@@ -67,6 +67,6 @@ email: ''
 highlight_name: true
 ---
 
-Mingde Zhou received his Ph.D. degree at [Power Electronics and Renewable Energies Laboratory (PEARL)](https://pearl.shanghaitech.edu.cn/), Shanghaitech University. His research advisor is Prof. [Haoyu Wang](https://pearl.shanghaitech.edu.cn/people.html). With the vision of building power internet with electric vehicles, his research focused on designing high-efficiency converters for electric vehicles (EVs) with compact size.
+Mingde Zhou received his Ph.D. degree in microelectronics and solid-state electronics from the Chinese Academy of Sciences, Shanghai Institute of Microsystem and Information Technology, Shanghai, China, in 2024. He was a Graduate Research Assistant with the [Power Electronics and Renewable Energies Laboratory (PEARL)](https://pearl.shanghaitech.edu.cn/), School of Information Science and Technology, ShanghaiTech University, Shanghai, China, from 2019 to 2024. His research advisor is Prof. [Haoyu Wang](https://pearl.shanghaitech.edu.cn/people.html). With the vision of building power internet with electric vehicles, his research focused on designing high-efficiency converters for electric vehicles (EVs) with compact size.
 
 {{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/resume-eng.pdf" "newtab" >}}resumé{{< /staticref >}}.
